@@ -2,7 +2,7 @@ const sidebar = {
     '/': [
         {
             text: 'Introduction',
-            items: [{ text: '什么是Smart-UI?', link: '/' }]
+            items: [{ text: '什么是Smarty-UI?', link: '/' }]
         },
         {
             text: '通用',

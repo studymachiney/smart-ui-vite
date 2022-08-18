@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import SButton from './button'
 import SFCButton from './SFCButton.vue'
-import SmartUI from './entry'
+import SmartyUI from './entry'
 
 // createApp(SFCButton).mount('#app')
 createApp({
@@ -15,5 +15,5 @@ createApp({
         </div>
         `
 })
-    .use(SmartUI)
+    .use(SmartyUI)
     .mount('#app')
